@@ -1,3 +1,5 @@
 def my_each(words) 
-  while 
+  i = 0 
+  
+  while i < array
 end
